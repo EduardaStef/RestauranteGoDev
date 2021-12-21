@@ -1,0 +1,6 @@
+com\godev\restaurantegodev\model\QRestaurante.class
+com\godev\restaurantegodev\model\QCliente.class
+com\godev\restaurantegodev\model\QProduto.class
+com\godev\restaurantegodev\model\QContato.class
+com\godev\restaurantegodev\model\QEndereco.class
+com\godev\restaurantegodev\model\QPedido.class
